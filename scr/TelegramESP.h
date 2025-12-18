@@ -1,5 +1,5 @@
-#ifndef UniversalTelegramBot_h
-#define UniversalTelegramBot_h
+#ifndef TelegramBot_h
+#define TelegramBot_h
 
 #define ARDUINOJSON_DECODE_UNICODE 1
 #define ARDUINOJSON_USE_LONG_LONG 1
